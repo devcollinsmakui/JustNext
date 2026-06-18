@@ -1,6 +1,8 @@
 import { lusitana } from '@/app/ui/fonts'
 import { CreateInvoice } from '@/app/ui/invoices/buttons'
 import Search from '@/app/ui/search'
+import Pagination from '@/app/ui/invoices/pagination';
+import Table from '@/app/ui/invoices/table';
 import React from 'react'
 
 const page = () => {
